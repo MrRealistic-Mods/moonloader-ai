@@ -15,5 +15,5 @@ You are assisting with writing Moonloader scripts for GTA San Andreas using LUA.
 
 ## How to Look Things Up
 
--Just use the "references.txt" it includes all the references you'll need
--If Imgui is needed use "examples\paintjob-loader.lua" as an example of how it's done
+- **Just use the "references.txt" it includes all the references you'll need
+- **If Imgui is needed use "examples\paintjob-loader.lua" as an example of how it's done
