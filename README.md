@@ -20,7 +20,7 @@
 - **MoonPlus** — 96 additional utility functions
 - **ImGui** — 189 UI widgets for building in-game menus
 - **Lua stdlib** — Standard functions available in the Moonloader context
-- **Enums** — 1,325 named constants so you never hardcode a magic number
+- **Enums** — 1,325 named constants
 
 ---
 
