@@ -29,3 +29,6 @@
 - [Moonloader](http://gtaforums.com/topic/890987-moonloader/) installed in your GTA SA
 - [MoonAdditions](https://github.com/Dante-1337/MoonAdditions) for extended functions (optional)
 - [MoonPlus](https://github.com/THE-FYP/MoonPlus) for MoonPlus functions (optional)
+
+## Support my work
+[Patreon](https://www.patreon.com/c/MrRealistic)
